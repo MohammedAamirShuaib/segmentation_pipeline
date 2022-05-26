@@ -1,0 +1,11 @@
+ploomber
+pandas
+scikit-learn
+seaborn
+matplotlib
+pycaret
+pandas-profiling
+wandb
+fastapi
+uvicorn
+python-multipart
